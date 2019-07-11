@@ -1,2 +1,2 @@
 # Publications
-Здесь будут выложены мои публикации
+Here is mine publications
