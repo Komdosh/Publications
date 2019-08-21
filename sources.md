@@ -1,0 +1,3 @@
+1.	Tabakov A., Paznikov A. Modelling of parallel threads synchronization in hybrid MPI+Threads programs // Proc. of the XXI IEEE International Conference on Soft Computing and Measurements (SCM), 2019. – 4 p. (В печати)
+2.	Tabakov A., Paznikov A. Algorithms for Optimization of Relaxed Concurrent Priority Queues in Multicore Systems // Proc. of the 2019 IEEE Conference of Russian Young Researchers in Electrical and Electronic Engineering (EIConRus), 2019. – pp. 360-365 
+3.	Табаков А. В., Пазников А. А. Алгоритмы оптимизации потокобезопасных очередей с приоритетом на основе ослабленной семантики выполнения операций // Известия СПбГЭТУ «ЛЭТИ». – 2018. – № 10. – С. 42-49.
