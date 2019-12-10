@@ -16,9 +16,13 @@ doi: 10.1109/SCM.2019.8903806](https://github.com/Komdosh/Publications/blob/mast
 
        IEEE link: https://ieeexplore.ieee.org/abstract/document/8657105
 
+*    [E. A. Goncharenko, A. A. Paznikov and A. V. Tabakov, "Evaluating the performance of atomic operations on modern multicore systems" 2019 J. Phys.: Conf. Ser. 1399 033107](https://github.com/Komdosh/Publications/blob/master/2019/%5BEN%5DAPITECH_Evaluation.pdf)
+
+      IOPScience link: https://iopscience.iop.org/article/10.1088/1742-6596/1399/3/033107
+
 *    [Табаков А. В., Пазников А. А. Алгоритмы оптимизации потокобезопасных очередей с приоритетом на основе ослабленной семантики выполнения операций // Известия СПбГЭТУ «ЛЭТИ». – 2018. – № 10. – С. 42-49](https://github.com/Komdosh/Publications/blob/master/2019/[RU]IzvEltechRCD.pdf)
 *    [А. В. Табаков, Л. М. Веретенников, Потокобезопасные структуры данных с ослабленной семантикой выполненеия операций //Материалы VI международной конференции “Наука настоящего и будущего”, СПбГЭТУ “ЛЭТИ”, Россия, 2018, С. 105-107](https://github.com/Komdosh/Publications/blob/master/2018/[RU]ETUNNBTabakov.pdf)
 *    [Л. М. Веретенников, Е. В. Станевич, А. В. Табаков, Применение методов параллельных вычислений к запросам в базах данных //Материалы VI международной конференции “Наука настоящего и будущего”, СПбГЭТУ “ЛЭТИ”, Россия, 2018, С. 30-31](https://github.com/Komdosh/Publications/blob/master/2018/[RU]ETUNNBTabakov.pdf)
 *    [А. В. Табаков, Управление восприятием интеллектуального агента в среде виртуального футбола //Материалы VI международной конференции “Наука настоящего и будущего”, СПбГЭТУ “ЛЭТИ”, Россия, 2018, С. 107-109](https://github.com/Komdosh/Publications/blob/master/2018/[RU]ETUNNBTabakov.pdf)
 
-Total: 8
+Total: 9
