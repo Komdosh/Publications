@@ -12,7 +12,8 @@ doi: 10.1109/SCM.2019.8903806](https://github.com/Komdosh/Publications/blob/mast
        IEEE link: https://ieeexplore.ieee.org/abstract/document/8903806
 
 *    [Табаков А. В., Пазников А. А. Моделирование синхронизации параллельных потоков при выполнения гибридных MPI+threads программ // Материалы XXI IEEE международной конференции по мягким вычислениям (SCM), 2019. – C. 293-295](https://github.com/Komdosh/Publications/blob/master/2019/[RU]SCM_Modeling.pdf)
-*    [Tabakov A., Paznikov A. Algorithms for Optimization of Relaxed Concurrent Priority Queues in Multicore Systems // Proc. of the 2019 IEEE Conference of Russian Young Researchers in Electrical and Electronic Engineering (EIConRus), 2019. – pp. 360-365](https://github.com/Komdosh/Publications/blob/master/2019/[EN]IEEERCD.pdf)
+
+*    [Tabakov A., Paznikov A. Algorithms for Optimization of Relaxed Concurrent Priority Queues in Multicore Systems // Proc. of the 2019 IEEE Conference of Russian Young Researchers in Electrical and Electronic Engineering (EIConRus), 2019. – pp. 360-365. 10.1109/EIConRus.2019.8657105](https://github.com/Komdosh/Publications/blob/master/2019/[EN]IEEERCD.pdf)
 
        IEEE link: https://ieeexplore.ieee.org/abstract/document/8657105
 
