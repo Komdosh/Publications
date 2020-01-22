@@ -2,7 +2,7 @@
 Here is mine publications
 
 *    [A. V. Tabakov and A. A. Paznikov, "Using relaxed concurrent data structures for contention minimization in
-multithreaded MPI programs" 2019 J. Phys.: Conf. Ser. 1399 033037](https://github.com/Komdosh/Publications/blob/master/2019/%5BEN%5DAPITECH_Using.pdf)
+multithreaded MPI programs" 2019 J. Phys.: Conf. Ser. 1399 033037. doi: 10.1088/1742-6596/1399/3/033037](https://github.com/Komdosh/Publications/blob/master/2019/%5BEN%5DAPITECH_Using.pdf)
 
       IOPScience link: https://iopscience.iop.org/article/10.1088/1742-6596/1399/3/033037
 
@@ -17,7 +17,7 @@ doi: 10.1109/SCM.2019.8903806](https://github.com/Komdosh/Publications/blob/mast
 
        IEEE link: https://ieeexplore.ieee.org/abstract/document/8657105
 
-*    [E. A. Goncharenko, A. A. Paznikov and A. V. Tabakov, "Evaluating the performance of atomic operations on modern multicore systems" 2019 J. Phys.: Conf. Ser. 1399 033107](https://github.com/Komdosh/Publications/blob/master/2019/%5BEN%5DAPITECH_Evaluation.pdf)
+*    [E. A. Goncharenko, A. A. Paznikov and A. V. Tabakov, "Evaluating the performance of atomic operations on modern multicore systems" 2019 J. Phys.: Conf. Ser. 1399 033107. doi: 10.1088/1742-6596/1399/3/033107](https://github.com/Komdosh/Publications/blob/master/2019/%5BEN%5DAPITECH_Evaluation.pdf)
 
       IOPScience link: https://iopscience.iop.org/article/10.1088/1742-6596/1399/3/033107
 
