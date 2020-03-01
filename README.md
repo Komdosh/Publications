@@ -17,6 +17,9 @@ doi: 10.1109/SCM.2019.8903806](https://github.com/Komdosh/Publications/blob/mast
 
        IEEE link: https://ieeexplore.ieee.org/abstract/document/8657105
 
+*    [E. A. Goncharenko, A. A. Paznikov and A. V. Tabakov, "Performance Modeling of Atomic Operations in Control Systems Based on Multicore Computer Systems," 2019 III International Conference on Control in Technical Systems (CTS), St. Petersburg, Russia, 2019, pp. 140-143. doi: DOI: 10.1109/CTS48763.2019.8973240]
+
+
 *    [E. A. Goncharenko, A. A. Paznikov and A. V. Tabakov, "Evaluating the performance of atomic operations on modern multicore systems" 2019 J. Phys.: Conf. Ser. 1399 033107. doi: 10.1088/1742-6596/1399/3/033107](https://github.com/Komdosh/Publications/blob/master/2019/%5BEN%5DAPITECH_Evaluation.pdf)
 
       IOPScience link: https://iopscience.iop.org/article/10.1088/1742-6596/1399/3/033107
