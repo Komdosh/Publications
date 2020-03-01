@@ -17,7 +17,7 @@ doi: 10.1109/SCM.2019.8903806](https://github.com/Komdosh/Publications/blob/mast
 
        IEEE link: https://ieeexplore.ieee.org/abstract/document/8657105
 
-*    [E. A. Goncharenko, A. A. Paznikov and A. V. Tabakov, "Performance Modeling of Atomic Operations in Control Systems Based on Multicore Computer Systems," 2019 III International Conference on Control in Technical Systems (CTS), St. Petersburg, Russia, 2019, pp. 140-143. doi: DOI: 10.1109/CTS48763.2019.8973240]
+*    [E. A. Goncharenko, A. A. Paznikov and A. V. Tabakov, "Performance Modeling of Atomic Operations in Control Systems Based on Multicore Computer Systems," 2019 III International Conference on Control in Technical Systems (CTS), St. Petersburg, Russia, 2019, pp. 140-143. doi: DOI: 10.1109/CTS48763.2019.8973240] (-)
 
 
 *    [E. A. Goncharenko, A. A. Paznikov and A. V. Tabakov, "Evaluating the performance of atomic operations on modern multicore systems" 2019 J. Phys.: Conf. Ser. 1399 033107. doi: 10.1088/1742-6596/1399/3/033107](https://github.com/Komdosh/Publications/blob/master/2019/%5BEN%5DAPITECH_Evaluation.pdf)
@@ -29,4 +29,4 @@ doi: 10.1109/SCM.2019.8903806](https://github.com/Komdosh/Publications/blob/mast
 *    [Л. М. Веретенников, Е. В. Станевич, А. В. Табаков, Применение методов параллельных вычислений к запросам в базах данных //Материалы VI международной конференции “Наука настоящего и будущего”, СПбГЭТУ “ЛЭТИ”, Россия, 2018, С. 30-31](https://github.com/Komdosh/Publications/blob/master/2018/[RU]ETUNNBTabakov.pdf)
 *    [А. В. Табаков, Управление восприятием интеллектуального агента в среде виртуального футбола //Материалы VI международной конференции “Наука настоящего и будущего”, СПбГЭТУ “ЛЭТИ”, Россия, 2018, С. 107-109](https://github.com/Komdosh/Publications/blob/master/2018/[RU]ETUNNBTabakov.pdf)
 
-Total: 9
+Total: 10
